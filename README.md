@@ -2,13 +2,13 @@
 
 **Self Blog** projesi, [Deneyim] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
-![Proje Görseli](self-blog-gif.gif)  
+![Proje Görseli](./images/self-blog-gif.gif)  
 
 ---
 
 ## 🛠️ Özellikler
 
-- 🔹 **Özellik 1**: Sadece HTML5, CSS3 ile yazıldı.
+- 🔹 **Özellik 1**: HTML5, CSS3 ve SCSS ile yazıldı.
 - 🔹 **Özellik 2**: Görseller mevcut.  
 - 🔹 **Özellik 3**: Responsive tasarımdır.  
 
