@@ -1,6 +1,6 @@
 # 📌 Self Blog
 
-**Self Blog** projesi, [Deneyim] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Self Blog** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](./images/self-blog-gif.gif)  
 
